@@ -1,0 +1,1 @@
+{"name":"sample-ui-element","type":"ui-elements","source":{"https":"https://github.com/Digambaran/_op_sample-ui-element","ssh":"git@github.com:Digambaran/_op_sample-ui-element.git"},"language":"nodejs","start":"npm run start","build":"npm run build","postPull":"npm i"}
